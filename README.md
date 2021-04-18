@@ -42,7 +42,7 @@ Creating command macros for the 1980s DMS Editor
     M       16           1        5.26            19       100.00
 
 
-    Put this macros in your autocall library
+    Put these two macros in your autocall library
 
     %macro fq / cmd parmbuff;
        %local sd1 var  rc;
